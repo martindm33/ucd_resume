@@ -74,7 +74,7 @@ header {
 }
 
 #nav li {
-    font-size: 16px;
+    font-size: 14px;
     padding: 0;
 }
 
@@ -112,6 +112,6 @@ header {
 /*---------------------------------------------------------Hover.css */
 
 .hvr-sweep-to-bottom:before {
-    background: rgba(0, 0, 0, 0.2);
+    background: #fafafa;
     height: 120px;
 }
