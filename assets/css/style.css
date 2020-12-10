@@ -22,6 +22,10 @@
     background-color: #525252
 }
 
+.bg-color-three-reasons {
+    background-color: #fff;
+}
+
 /*---------------------------------------------------------Special paddings/margin/text */
 
 
@@ -42,6 +46,14 @@ h1, h2, h3, h4 {
     display: inline-block;
 }
 
+.row-table {
+    display: table;
+}
+
+.section-colum {
+    dispaly: table=cell;
+    padding: 0 30px 30px;
+}
 
 /*---------------------------------------------------------Heading */
 
